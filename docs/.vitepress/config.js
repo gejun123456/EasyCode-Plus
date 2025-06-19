@@ -1,6 +1,7 @@
 module.exports = {
     base: '/EasyCode-Plus/',
     title: "EasyCode Plus",
+    ignoreDeadLinks: true,
     description: "A powerful code generation tool based on templates",
     markdown: {
         // 禁用 Vue 语法解析，避免与 Velocity 语法冲突
