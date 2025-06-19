@@ -21,7 +21,10 @@ private ${column.shortType} ${column.name}; // ${column.comment}
 #end
 ```
 
+## 更多模版具体用法可以看api
+[Api](/zh/api) 
+
 ## 高级用法
 
 - 支持自定义工具类、全局变量、Groovy 脚本等扩展能力。
-- 可通过插件设置界面管理模板组，实现团队协作与模板共享。 
+- 使用EasyCode目录来生成代码，可以加入git实现团队协作与模板共享。 
