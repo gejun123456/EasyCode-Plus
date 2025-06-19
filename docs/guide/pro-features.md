@@ -2,7 +2,7 @@
 
 - Debug and generate code from database table is free.
 
-## Pro Features
+## Paid Features
 
 - Template Code completion
 - Groovy template Support

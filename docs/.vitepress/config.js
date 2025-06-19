@@ -1,4 +1,5 @@
 module.exports = {
+    base: '/EasyCode-Plus/',
     title: "EasyCode Plus",
     description: "A powerful code generation tool based on templates",
     markdown: {
@@ -21,7 +22,8 @@ module.exports = {
                     '/guide/': [
                         { text: 'Getting Started', link: '/guide/getting-started' },
                         { text: 'Templates', link: '/guide/templates' },
-                        { text: 'Groovy Script', link: '/guide/groovy-script' }
+                        { text: 'Groovy Script', link: '/guide/groovy-script' },
+                        { text: 'Paid Features', link: '/guide/pro-features' }
                     ],
                     '/api/': [
                         { text: 'TableInfo', link: '/api/table-info' },
@@ -45,7 +47,8 @@ module.exports = {
                     '/zh/guide/': [
                         { text: '快速开始', link: '/zh/guide/getting-started' },
                         { text: '模板开发', link: '/zh/guide/templates' },
-                        { text: 'Groovy 脚本', link: '/zh/guide/groovy-script' }
+                        { text: 'Groovy 脚本', link: '/zh/guide/groovy-script' },
+                        { text: '付费功能', link: '/zh/guide/pro-features' }
                     ],
                     '/zh/api/': [
                         { text: 'TableInfo', link: '/zh/api/table-info' },
