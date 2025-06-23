@@ -8,3 +8,4 @@
 - [模板开发](/zh/guide/templates) - Velocity 模板开发与用法
 - [Groovy 脚本](/zh/guide/groovy-script) - 高级脚本扩展 
 - [付费功能](/zh/guide/pro-features) - 付费功能与购买选项
+- [联系我们](/zh/guide/contact) - 联系我们

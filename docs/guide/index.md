@@ -8,3 +8,4 @@ Welcome to the EasyCode Plus Plugin Generator guide. Here you'll find everything
 - [Templates](/guide/templates)
 - [Groovy Script](/guide/groovy-script)
 - [Pro Features](/guide/pro-features) - Paid features and purchase options
+- [Contact Us](/guide/contact-us) 
