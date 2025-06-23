@@ -3,6 +3,12 @@ module.exports = {
     title: "EasyCode Plus",
     ignoreDeadLinks: true,
     description: "A powerful code generation tool based on templates",
+    head: [
+        [
+            'script',
+            { defer: true, src: 'https://cloud.umami.is/script.js', 'data-website-id': '523458f0-e395-4e19-9139-2c742432d92c' }
+        ]
+    ],
     markdown: {
         // 禁用 Vue 语法解析，避免与 Velocity 语法冲突
         vue: {
