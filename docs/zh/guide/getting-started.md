@@ -6,7 +6,7 @@
 
 1. 打开 JetBrains 系列 IDE（如 IntelliJ IDEA）。
 2. 进入 `Settings` > `Plugins`，搜索 "EasyCode Plus" 并安装。
-3. 重启 IDE 以完成插件激活。
+3. 重启 IDE 以完成插件安装。
 
 ## 创建第一个模板
 
