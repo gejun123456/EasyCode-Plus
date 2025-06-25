@@ -29,9 +29,10 @@ module.exports = {
                     '/guide/': [
                         { text: 'Getting Started', link: '/guide/getting-started' },
                         { text: 'Templates', link: '/guide/templates' },
+                        { text: 'Screenshot', link: '/guide/screenshot' },
                         { text: 'Groovy Script', link: '/guide/groovy-script' },
                         { text: 'Paid Features', link: '/guide/pro-features' },
-                        { text: 'Contact', link: '/guide/contact-us' }
+                        { text: 'Contact', link: '/guide/contact' }
                     ],
                     '/api/': [
                         { text: 'TableInfo', link: '/api/table-info' },
@@ -55,6 +56,7 @@ module.exports = {
                     '/zh/guide/': [
                         { text: '快速开始', link: '/zh/guide/getting-started' },
                         { text: '模板开发', link: '/zh/guide/templates' },
+                        { text: '截图', link: '/zh/guide/screenshot' },
                         { text: 'Groovy 脚本', link: '/zh/guide/groovy-script' },
                         { text: '付费功能', link: '/zh/guide/pro-features' },
                         { text: '联系我们', link: '/zh/guide/contact' }
