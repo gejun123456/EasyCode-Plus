@@ -3,7 +3,7 @@
     <template #sidebar-nav-before>
         <a
         v-if="isZh"
-        href="https://brucege.com/doc"
+        href="https://brucege.com/doc?utm_source=EasyCodePlus"
         target="_blank"
         rel="noopener"
         style="display:block;margin:8px 0 12px 0;text-align:center;"
