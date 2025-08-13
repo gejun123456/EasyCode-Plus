@@ -16,6 +16,9 @@
 
 ## 常见问题
 
+- **生成的模板文件在哪里**
+  在项目的EasyCode目录里面或者Scratches And Consoles的/extensions/EasyCode目录里面,直接编辑模板即可
+
 - **如何自定义作者名？**  
   在插件设置中填写作者信息，或在模板中使用 `${author}` 变量。
 - **支持哪些数据库？**  

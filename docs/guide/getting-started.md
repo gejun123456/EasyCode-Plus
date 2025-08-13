@@ -12,7 +12,7 @@
 
 1. Open your project in IntelliJ IDEA
 2. Right-click on a table in the database view
-3. Select "EasyCode" from the context menu
+3. Select "EasyCode Plus" from the context menu
 4. Choose your template
 5. Generate code
 
@@ -24,4 +24,9 @@
 2. Add dependency for code completion
 3. Edit your template
 4. Debug and generate code
+
+## Question
+
+- **Where are the generated template files**
+They are located in the EasyCode directory of the project or in `Scratches And Consoles/extensions/EasyCode`. You can directly edit the templates there.
 
