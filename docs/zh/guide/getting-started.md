@@ -16,7 +16,7 @@
 
 ## 常见问题
 
-- **生成的模板文件在哪里**
+- **生成的模板文件在哪里**  
   在项目的EasyCode目录里面或者Scratches And Consoles的/extensions/EasyCode目录里面,直接编辑模板即可
 
 - **如何自定义作者名？**  
