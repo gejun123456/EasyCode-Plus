@@ -7,6 +7,8 @@
 
 example: D:/code/github/externalLibDemo/target/easycode-utils-1.0.0.jar
 
+### example project is:https://github.com/gejun123456/EasyCode-ExternalLib
+
 groovy script:
 ```groovy
 param.put('stringHelper', com.bruce.utils.StringHelper.getInstance())
